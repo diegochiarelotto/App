@@ -19,21 +19,6 @@ Styled Components
 Node.js
 
 
-📂 Estrutura do Projeto
-bash
-Copiar
-Editar
-src/
-│── app/
-│   ├── (public)/  # Tela de login
-│   ├── (auth)/    # Tela principal após autenticação
-│   ├── images/    # Logo e ícones
-│   ├── components/ # Botões e UI reutilizável
-│── assets/        # Recursos gráficos
-│── .env           # Variáveis de ambiente
-│── app.json       # Configuração do Expo
-📲 Como Executar o Projeto
-
 **Clone o repositório:**
 sh: git clone https://github.com/seu-usuario/seu-repositorio.git
 
